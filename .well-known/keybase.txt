@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/mihalyr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mihalyr.com
+  * I am mihalyr (https://keybase.io/mihalyr) on keybase.
+  * I have a public key with fingerprint 53D9 4AE6 AAA5 8746 A50E  C4FC 53C3 C88B 6AD2 5D39
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0116c52f1e7f7a3531169f945cc65710e1dc74dbf1df648f8997897deb0febd7ebd50a",
+      "fingerprint": "53d94ae6aaa58746a50ec4fc53c3c88b6ad25d39",
+      "host": "keybase.io",
+      "key_id": "53c3c88b6ad25d39",
+      "kid": "0116c52f1e7f7a3531169f945cc65710e1dc74dbf1df648f8997897deb0febd7ebd50a",
+      "uid": "3adedc4cedc3245ec268c8531f86c619",
+      "username": "mihalyr"
+    },
+    "service": {
+      "hostname": "mihalyr.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1580461590,
+  "expire_in": 157680000,
+  "prev": "404b386b6fbb15eb7e259879d715cd27d5e1a6686148443c8b738cd6dcaee813",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUj2IE0EUXr2zSM5fkHQpHAQLc8fOzu/GQtRCBMFCsRFc5udtslyyG3c30XDm
+6gMLhVRWVylXaGFlo4iFWCgooqWdjc0JKnqCoLPBKwRLB2aG9+b7vve9x9zaM+fV
+G+8u3Vj4VDt+ZMeLj9q7TDYPryCd2TFqr6BlmF3Qs1CU0XJiURv5GHPDghiDiIUi
+jLg4jEPKjOFMYB+wNYJaHWMbcypjGYZChsKC9mPQVrjNfIVaKE7SDuSDPElLJ8uI
+DakCrpRiUlCumA+GxoYRQ4yUmisbMEtCR+xmRcVw5rQqYCnJXM4F0czeP/D/2fdw
+JkeUBWuocQcJKAMTcGmkU40lNxxXdYcF5Knqg0P3k67qjXM0aSGXHCUGqrlWjfwN
+WDJZ3zEHeVZmJuu5h25ZDop2RSzHgwp5FXT0RyPSSWrdFB1jBHmRZClqY4c0ZVKJ
+YiZ9yjEL/RaCa4MkhyipEExw6btV1YGRk6Q+1URyzS/GWmMGWkDAQilCKzAzNhCW
+AVacS46ppNTNVwsijeXWKACJCaraupJmqE2cT9VxmkXSSVU5zAFN6mvDea9R95qN
+Q/P7Hl94s/F5cm+tefft9sfbtbP6dV69tn87s3XM+xWvv9z99UHv26nbo+aBk+n0
+4bMfWxvjxS/T84u9R6tnn3s/F854e+8/ffJ+eOcVib7XDl6fzp8u8fqJm6+Pflg9
+tzn3Gw==
+=lKlx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mihalyr
+
+==================================================================
+
